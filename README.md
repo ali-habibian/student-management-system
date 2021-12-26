@@ -8,3 +8,4 @@ Simple Student Management System web application using Spring Boot, Spring MVC, 
 * Spring Data JPA (Hibernate)
 * MySQL
 * Thymeleaf
+* Bootstrap
